@@ -1,17 +1,18 @@
 ## Whatbytes Assessment Project 
  Technology Used : Next.js, Tailwind css, chart.js
- Language : Typescript
+   <br />Language : Typescript
 ## Getting Started
-First, run the development server:
-
+First, clone this repository
 ```bash
+git clone 
+```
+Navigate to the project folder and Install necessary Packages 
+```
+npm install
+```
+Run the project in Development Server
+```
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
