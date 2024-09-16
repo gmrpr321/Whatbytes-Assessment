@@ -1,4 +1,6 @@
 ## Whatbytes Assessment Project 
+ Technology Used : Next.js, Tailwind css, chart.js
+ Language : Typescript
 ## Getting Started
 First, run the development server:
 
