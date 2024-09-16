@@ -1,16 +1,16 @@
 ## Whatbytes Assessment Project 
- Technology Used : Next.js, Tailwind css, chart.js
+ Technology Used: Next.js, Tailwind CSS, chart.js
    <br />Language : Typescript
 ## Getting Started
 First, clone this repository
 ```bash
-git clone 
+git clone https://github.com/gmrpr321/Whatbytes-Assessment.git
 ```
-Navigate to the project folder and Install necessary Packages 
+Navigate to the project folder and Install the necessary Packages 
 ```
 npm install
 ```
-Run the project in Development Server
+Run the project in the Development Server
 ```
 npm run dev
 ```
