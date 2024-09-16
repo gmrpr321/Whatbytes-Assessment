@@ -12,6 +12,22 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      blue: {
+        100: "#dbeafe",
+        600: "#1d4ed8",
+      },
+      yellow: {
+        100: "#fef3c7",
+        600: "#facc15",
+      },
+      red: {
+        100: "#fee2e2",
+        600: "#dc2626",
+      },
+      green: {
+        100: "#d1fae5",
+        600: "#10b981",
+      },
     },
   },
   plugins: [],
